@@ -5,8 +5,9 @@
     android:versionName="1.0" >
 
     <uses-sdk android:minSdkVersion="10" />
-    <uses-feature android:required="true" android:name="@string/app_name"/>
+    <uses-feature android:required="true" android:name="@android:string/selectAll"/>
     <supports-screens android:smallScreens="true" android:anyDensity="true" android:resizeable="true" android:xlargeScreens="true" android:normalScreens="true" android:largeScreens="true"/>
+    <library />
 
     <application
         android:icon="@drawable/ic_launcher"
