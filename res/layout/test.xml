@@ -10,4 +10,10 @@
         android:scaleType="fitXY"
         android:src="@drawable/p1" />
 
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Button" />
+
 </LinearLayout>
